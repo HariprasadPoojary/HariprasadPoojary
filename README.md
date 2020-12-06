@@ -15,12 +15,12 @@
 
 <!-- Links -->
 
-[1.1]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/python.svg
-[1.2]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/javascript.svg
+[1.1]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/python.svg
+[1.2]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/javascript.svg
 [1.3]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/ee3642e96861986e120fb51eb16199c71706db9c/icons/django.svg
-[1.4]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/f44fed5816e056d756d726f8586e34cbcba51c5d/icons/visualstudiocode.svg
-[1.5]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/f44fed5816e056d756d726f8586e34cbcba51c5d/icons/postgresql.svg
-[1.6]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/f44fed5816e056d756d726f8586e34cbcba51c5d/icons/sass.svg
+[1.4]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/visualstudiocode.svg
+[1.5]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/postgresql.svg
+[1.6]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/sass.svg
 
 <!-- Icons for Reach me -->
 
