@@ -11,7 +11,7 @@
 
 <!-- Icons -->
 
-[![Python][1.1]][] [![JavaScript][1.2]][] [![DJango][1.3]][]
+![Python][1.1] ![JavaScript][1.2] ![DJango][1.3]
 
 <!-- Links -->
 
