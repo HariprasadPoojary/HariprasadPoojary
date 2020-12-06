@@ -19,7 +19,7 @@ You can find me on [![Facebook][1.2]][1], [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: <img height="20" src="./icons/facebook.svg">
+[1.2]: <img height="20" src="https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/ab4852b7e8792e7926fea035ef3c8ba2c1e4013d/icons/facebook.svg">
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
