@@ -25,13 +25,13 @@
 
 <!-- Actual text -->
 
-#### You can find me on [![Facebook][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][2.2]][2].
+#### You can find me on [![Facebook][2.1]][1] [![LinkedIn][2.2]][2] [![Instagram][2.3]][2].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/facebook.svg
+[2.1]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/facebook.svg
 [2.2]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/linkedin.svg
-[3.2]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/instagram.svg
+[2.3]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/6327dbc7a6a509a827fa6c978be5feff06a04818/icons/instagram.svg
 
 <!-- Links to your social media accounts -->
 
