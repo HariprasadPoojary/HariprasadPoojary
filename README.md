@@ -21,9 +21,8 @@
 [1.4]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/visualstudiocode.svg
 [1.5]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/postgresql.svg
 [1.6]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/sass.svg
-
-[1.7]:
-[1.8]:
+[1.7]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/11e7b05d06895093b4b8a3aa2995072459225fab/icons/html5.svg
+[1.8]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/11e7b05d06895093b4b8a3aa2995072459225fab/icons/css3.svg
 
 <!-- Icons for Reach me -->
 
