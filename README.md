@@ -11,7 +11,7 @@
 
 <!-- Icons -->
 
-![Python][1.1] ![JavaScript][1.2] ![DJango][1.3] ![VSCode][1.4] ![Postgres][1.5] ![Sass][1.6]
+![Python][1.1] ![DJango][1.3] ![JavaScript][1.2] ![HTML][1.7] ![CSS][1.8] ![Postgres][1.5] ![Sass][1.6] ![VSCode][1.4]
 
 <!-- Links -->
 
@@ -21,6 +21,9 @@
 [1.4]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/visualstudiocode.svg
 [1.5]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/postgresql.svg
 [1.6]: https://raw.githubusercontent.com/HariprasadPoojary/HariprasadPoojary/a93ad55e9c763acadda9d884305abe0ee719273e/icons/sass.svg
+
+[1.7]:
+[1.8]:
 
 <!-- Icons for Reach me -->
 
