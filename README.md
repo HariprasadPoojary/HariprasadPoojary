@@ -4,7 +4,6 @@
 -   🌱 Currently learning web development with Python, DJango, JavaScript, HTML, CSS
 -   💼 Looking for an opportunity where I can use my skills and knowledge for organizational and personal growth 💪🏽.
 -   📫 How to reach me: [@haridx.poojary](mailto:haridx.poojary@gmail.com) | [![Facebook][2.1]][1] [![LinkedIn][2.2]][2] [![Instagram][2.3]][2]
--   😄 Pronouns: He/Him
 -   ⚡ Fun fact: I love Batman 🦇
 
 #### Languages and Tools:
